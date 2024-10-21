@@ -12,7 +12,6 @@ import unittest
 # this was the solution I found
 import tensorflow.python.keras as tfKeras
 import tensorflow.python.keras.layers as tfLayers
-import tensorflow
 
 # Import where refactor was done
 from tensorflow.python.keras.engine import training
